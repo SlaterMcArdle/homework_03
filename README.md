@@ -15,28 +15,28 @@ See a live version of the site here: https://windwalker-92.github.io/homework_03
 See below for screenshots of the working webpage.
 
 The initial prompt appears as follows asking the user for a number of characters.
-![ScreenShot](./assets/screenshot_01.png)
+![ScreenShot](./Assets/screenshot_01.png)
 
 If the user enters an invalid character count, a new prompt appears.
-![ScreenShot](./assets/screenshot_02.png)
+![ScreenShot](./Assets/screenshot_02.png)
 
 If the user cancels out of either of the first two prompts, a cancelled alert appears.
-![ScreenShot](./assets/screenshot_03.png)
+![ScreenShot](./Assets/screenshot_03.png)
 
 The password textbox also displays 'No Password Generated'
-![ScreenShot](./assets/screenshot_04.png)
+![ScreenShot](./Assets/screenshot_04.png)
 
 If they successfully input a valid character count, a confirm appears asking if they want to include lowercase characters.
-![ScreenShot](./assets/screenshot_05.png)
+![ScreenShot](./Assets/screenshot_05.png)
 
 At this point they must navigate through all of the confirms in order to proceed or exit. The next confirm asks about uppercase characters.
-![ScreenShot](./assets/screenshot_06.png)
+![ScreenShot](./Assets/screenshot_06.png)
 
 The next asks about numeric characters, and the last asks about special characters.
-![ScreenShot](./assets/screenshot_07.png)
-![ScreenShot](./assets/screenshot_08.png)
+![ScreenShot](./Assets/screenshot_07.png)
+![ScreenShot](./Assets/screenshot_08.png)
 
 If they haven't selected any valid options for characters, the password generated cancelled alert appears as above and the 'No Password Generated' appears in teh textbox.
 
 If they've selected at least one valid option, a randomly generated password appears in the textbox.
-![ScreenShot](./assets/screenshot_09.png)
+![ScreenShot](./Assets/screenshot_09.png)
